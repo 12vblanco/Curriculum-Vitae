@@ -145,12 +145,12 @@ li {
     width: 55%;
   }
   .icon-container {
-    height: 30px;
-    padding: 6px 22px;
+    height: 36px;
+    padding: 8px 22px;
   }
   .icon {
-    width: 2rem;
-    max-height: 2rem;
-    margin: 1px 10px;
+    width: 2.6rem;
+    max-height: 2.6rem;
+    margin: 0px 10px;
   }
 }
